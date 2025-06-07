@@ -46,10 +46,17 @@ It includes:
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyamcodes2&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=divyamcodes2&theme=tokyonight" width="47%" />
-</p>
+
+<div align="center" style="width:100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=divyamcodes2&theme=tokyonight" alt="GitHub Streak" style="width:100%; max-width:1000px;" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=divyamcodes2&show_icons=true&theme=tokyonight" style="width:100%; max-width:1000px;" />
+</div>
+
 
 
 <div align="center">
